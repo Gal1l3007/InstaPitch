@@ -1,0 +1,5 @@
+{
+  "name": "InstaPitch",
+  "description": "A prompt-as-code pitch deck generator that creates structured prompt links for Bolt.new without a backend.",
+  "requestFramePermissions": []
+}
